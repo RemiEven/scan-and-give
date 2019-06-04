@@ -7,7 +7,7 @@ import ButtonBase from "@material-ui/core/ButtonBase";
 
 const styles = () => ({
   titre: {
-    color: "#00a94e"
+    color: "#cc0002"
   },
   content: {
     paddingRight: 30,

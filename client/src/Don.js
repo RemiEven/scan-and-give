@@ -4,7 +4,7 @@ import Typography from "@material-ui/core/Typography";
 
 const styles = () => ({
   titre: {
-    color: "#00a94e",
+    color: "#b11d3e",
     textAlign: "center",
     flex: "1 1 auto"
   },
@@ -78,8 +78,8 @@ class Don extends Component {
               : this.props.correspondances}
           </Typography>
         ) : (
-          ""
-        );
+            ""
+          );
     }
     return (
       <div className={classes.card}>

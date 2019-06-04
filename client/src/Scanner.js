@@ -17,7 +17,7 @@ const styles = theme => ({
     alignSelf: "center"
   },
   cardTitre: {
-    color: "#00a94e",
+    color: "#b11d3e",
     textAlign: "center"
   },
   resumeCard: {

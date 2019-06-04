@@ -12,15 +12,15 @@ const styles = () => ({
   },
   button: {
     marginTop: "40px",
-    backgroundColor: "#00a94e",
+    backgroundColor: "#b11d3e",
     "&:hover": {
-      backgroundColor: "#2C6"
+      backgroundColor: "#cc0002"
     }
   }
 });
 
 class Done extends Component {
-  componentDidMount() {}
+  componentDidMount() { }
 
   render() {
     const { classes } = this.props;

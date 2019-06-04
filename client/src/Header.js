@@ -10,7 +10,7 @@ const styles = () => ({
     height: 180
   },
   zenika: {
-    height: 100
+    height: 180
   },
   header: {
     fontSize: 64,
@@ -22,9 +22,7 @@ const styles = () => ({
   },
   title: {
     margin: "0 100px",
-    color: "#4e7b53",
-    textShadow:
-      "0 0 5px #fff, 0 0 10px #fff, 0 0 20px #4e7b53, 0 0 30px #4e7b53, 0 0 40px #4e7b53, 0 0 55px #4e7b53, 0 0 75px #4e7b53"
+    color: "#FFFFFF",
   },
   button: {
     color: "#c31436"
